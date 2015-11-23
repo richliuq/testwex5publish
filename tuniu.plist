@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wex5.tuniu</string>
+				<string>com.football.hq</string>
 				<key>bundle-version</key>
-				<string>5.3.17</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Justep WeX5 ��;ţ</string>
+				<string>黄金十一人</string>
 			</dict>
 		</dict>
 	</array>
