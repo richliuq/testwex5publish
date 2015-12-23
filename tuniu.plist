@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.32:8000/spinner/tuniu.ipa</string>
+					<string>https://github.com/richliuq/testwex5publish/raw/master/jiadao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.football.hq</string>
+				<string>com.huiqian.qk.app.jiadao</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>黄金十一人</string>
+				<string>价到</string>
 			</dict>
 		</dict>
 	</array>
